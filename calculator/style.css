@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Lumanosimo&family=Open+Sans:wght@500&family=Pangolin&family=Varela+Round&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+button {
+  width: 70px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.flex {
+  display: flex;
+}
+
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.row {
+  margin: 12px 0px;
+}
+
+.row input {
+  font-size: 34px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+input {
+  text-align: center;
+}
